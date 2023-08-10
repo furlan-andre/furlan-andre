@@ -1,1 +1,3 @@
 - 👋 Hi, I’m André Furlan
+- I'm use this git hub to record my studies
+- Current studyng Nest with NodeJS
