@@ -1,3 +1,3 @@
 - 👋 Hi, I’m André Furlan
 - I'm use this git hub to record my studies
-- Current studying Nest with NodeJS
+- Current studying .NET CORE 8 with TDD
